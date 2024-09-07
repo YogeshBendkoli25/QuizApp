@@ -10,7 +10,6 @@ QuizApp is a Flutter-based quiz application designed to test and enhance your kn
 - Restart Option: Easily restart the quiz to try for a better score or review the questions again.
 Technology Stack
 - Flutter: Built using Flutter to provide a seamless, cross-platform user experience.
-- State Management: Efficient state management to handle the quiz flow and scoring.
 - Custom UI: Designed with a clean and intuitive user interface for a smooth quiz-taking experience.
 
 
