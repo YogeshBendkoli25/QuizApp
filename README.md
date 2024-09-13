@@ -14,9 +14,7 @@ Technology Stack
 
 
 ## Screenshots
-![1](https://github.com/user-attachments/assets/597d90fa-b200-43af-a871-b391a644f549)
-![2](https://github.com/user-attachments/assets/6d1bc96a-975c-46f2-bc32-56251acb2865)
-![3](https://github.com/user-attachments/assets/6ae8174e-ee7d-4bb6-82b7-b96410d3b421)
-![4](https://github.com/user-attachments/assets/f0501b11-708f-401a-ae4b-4df2b70f5d7b)
-
-
+![1](https://github.com/user-attachments/assets/1fce450b-b69b-456b-b1a1-05e48703e69e)
+![2](https://github.com/user-attachments/assets/a26846e9-6819-4b50-a107-3c7ff6896adc)
+![3](https://github.com/user-attachments/assets/0ca3b3da-27a4-4efe-8da8-376b377ad7b2)
+![4](https://github.com/user-attachments/assets/8698ade3-12eb-40cd-ade0-7660d8e87aca)
